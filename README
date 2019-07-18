@@ -1,0 +1,4 @@
+==To view source code and run from IDE please import DataBaseOfBooksApp project to Eclipse IDE and run StartApplication main class.
+
+==To run from cmd use command 
+java -jar DataBaseOfBooksApp.jar 

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<books>
+    <booksMap>
+        <entry>
+            <key>1</key>
+            <value>
+                <id>1</id>
+                <title>The Grass is Always Greener</title>
+                <author>Jeffrey Archer</author>
+                <Description>This ingenious tale examines the ambitions and petty jealousies of the staff at Critchley's Bank.</Description>
+            </value>
+        </entry>
+        <entry>
+            <key>2</key>
+            <value>
+                <id>2</id>
+                <title>Fear and Loathing in Aspen</title>
+                <author>John Bidwell</author>
+                <Description>John Bidwell's two satirical short story journals are loosely based on real incidents in the author's life.</Description>
+            </value>
+        </entry>
+        <entry>
+            <key>3</key>
+            <value>
+                <id>3</id>
+                <title>The Speckled Band</title>
+                <author>Sir Arthur Conan Doyle (1859-1930)</author>
+                <Description>In one of the most thrilling and inventive of all Sherlock Holmes stories, the Baker Street detective and his trusted friend, Dr. Watson, are called to the aid of a mysterious lady who is convinced that her life is in danger. Sir Arthur Conan Doyle creates an inimitable at</Description>
+            </value>
+        </entry>
+    </booksMap>
+</books>
